@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Lucas
 
-I'm a backend-focused full stack developer with a passion for high-performance systems, elegant architectures, and clean code.  
-Currently building **IGNITE** – a platform for elite athlete performance.
+I’m a backend-focused full stack developer with a passion for high-performance systems, elegant architectures, and clean code.
+Currently building IGNITE – a platform for elite athlete performance.
 
-Most of my work is private (company/internal & IGNITE), but I contribute selectively to public tooling when it's useful.
+IGNITE (currently in MVP phase) enables vector-based load management for athletes, combining cutting-edge data modeling with intuitive tooling to optimize training efficiency and prevent injury.
+
+Most of my work is private (company/internal & IGNITE), but I contribute selectively to public tooling when it’s useful.
+Currently working on HICLIVE – a bus sharing platform for large-scale events across Europe.
 
 ---
 
@@ -40,14 +43,6 @@ Most of my work is private (company/internal & IGNITE), but I contribute selecti
 - 🔄 Automation & Clean CI/CD Pipelines
 - ⚙️ Data modeling & relational database performance
 - 🧪 Developer tooling (like [Laranums](https://github.com/LucasTuzina/laranums))
-
----
-
-### 🚧 Private Work Disclaimer
-
-> The majority of my professional and personal projects are in private repositories  
-> (internal company systems and my own platform **IGNITE**).  
-> This profile only reflects a fraction of my actual work.
 
 ---
 
