@@ -53,7 +53,7 @@ Currently working on HICLIVE – a bus sharing platform for large-scale events a
 
 - Provides ~20 helper methods for enums
 - Includes `make:enum` command to auto-generate enum files with translations
-- Used in real-world Laravel applications (287+ installs via Packagist)
+- Used in real-world Laravel applications
 
 ---
 
