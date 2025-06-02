@@ -21,6 +21,8 @@ Most of my work is private (company/internal & IGNITE), but I contribute selecti
 
 #### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-%2347A1F1.svg?style=flat&logo=ionic&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
 #### DevOps
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
