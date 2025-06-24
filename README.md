@@ -6,7 +6,7 @@ Currently building IGNITE – a platform for elite athlete performance.
 IGNITE (currently in MVP phase) enables vector-based load management for athletes, combining cutting-edge data modeling with intuitive tooling to optimize training efficiency and prevent injury.
 
 Most of my work is private (company/internal & IGNITE), but I contribute selectively to public tooling when it’s useful.
-Currently working on HICLIVE – a bus sharing platform for large-scale events across Europe.
+Currently also working on HICLIVE – a bus sharing platform for large-scale events across Europe.
 
 ---
 
