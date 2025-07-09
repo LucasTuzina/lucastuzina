@@ -26,6 +26,9 @@ Currently also working on HICLIVE – a bus sharing platform for large-scale eve
 
 #### 🎨 Frontend Frameworks
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-%2300DC82.svg?style=flat&logo=nuxtdotjs&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-%23E74430.svg?style=flat&logo=laravel&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-%233B8070.svg?style=flat&logo=alpinelinux&logoColor=white)
 
 #### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
