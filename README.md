@@ -46,7 +46,7 @@ Most work is private, but I contribute to public tooling when useful.
 
 ### 🚀 Public Projects
 
-#### 🎬 [Privlix](https://github.com/astronsoft/privlix) - *Alpha Release*
+#### 🎬 [Privlix](https://github.com/LucasTuzina/privlix) - *Alpha Release*
 > Modern local media player with automatic library organization
 
 - Custom HTML5 video player with progress tracking
