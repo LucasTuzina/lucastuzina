@@ -46,20 +46,21 @@ Most work is private, but I contribute to public tooling when useful.
 
 ### 🚀 Public Projects
 
-#### 🎬 [Privlix](https://github.com/LucasTuzina/privlix) - *Alpha Release*
-> Modern local media player with automatic library organization
-
-- Custom HTML5 video player with progress tracking
-- Automatic movie/series categorization and watch history
-- macOS-optimized with native integrations
-
-#### 🧩 [Laranums](https://github.com/LucasTuzina/laranums)
+#### 🧩 [Laranums](https://github.com/LucasTuzina/laranums)  
+[![Packagist Downloads](https://img.shields.io/packagist/dt/lucastuzina/laranums.svg)](https://packagist.org/packages/lucastuzina/laranums)
 > Laravel enum toolkit with translation support
 
 - ~20 helper methods for Laravel enums
 - `make:enum` command with auto-translation generation
 - Production-tested trait-based architecture
 
+#### 🎬 [Privlix](https://github.com/LucasTuzina/privlix) - *Alpha Release*
+> Modern local media player with automatic library organization
+
+- Custom HTML5 video player with progress tracking
+- Automatic movie/series categorization and watch history
+- macOS-optimized with native integrations
+  
 ---
 
 ### 🧠 Focus Areas
