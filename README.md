@@ -4,8 +4,7 @@ Backend-focused full stack developer passionate about high-performance systems a
 
 Currently building:
 
-- **IGNITE** - Vector-based load management for athletes, combining data modeling with intuitive tooling for training optimization
-- **HICLIVE** - Bus sharing platform for large-scale events across Europe  
+- **[IGNITE](https://ignitesports.io)** - Vector-based load management for athletes, combining data modeling with intuitive tooling for training optimization
 - **Privlix** - Modern local media player and library manager with streaming Platform feel
 
 Most work is private, but I contribute to public tooling when useful.
