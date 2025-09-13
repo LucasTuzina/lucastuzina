@@ -75,4 +75,5 @@ Most work is private, but I contribute to public tooling when useful.
 ### 📫 Contact
 
 📨 `lucas.tuzina@icloud.com`
-🌐 [IGNITE imprint](https://ignitesports.io/legal)*
+
+🌐 [IGNITE imprint](https://ignitesports.io/legal)
