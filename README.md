@@ -49,8 +49,9 @@ Most work is private, but I contribute to public tooling when useful.
 [![Packagist Downloads](https://img.shields.io/packagist/dt/lucastuzina/laranums.svg)](https://packagist.org/packages/lucastuzina/laranums)
 > Laravel enum toolkit with translation support
 
-- ~20 helper methods for Laravel enums
-- `make:enum` command with auto-translation generation
+- 20+ helper methods for Laravel enums
+- Utility enum classes ready to use
+- `make:laranum` command with auto-translation generation
 - Production-tested trait-based architecture
 
 #### 🎬 [Privlix](https://github.com/LucasTuzina/privlix) - *Alpha Release*
