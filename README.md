@@ -5,7 +5,7 @@ Backend-focused full stack developer passionate about high-performance systems a
 Currently building:
 
 - **[IGNITE](https://ignitesports.io)** - Vector-based load management for athletes, combining data modeling with intuitive tooling for training optimization
-- **[Privlix](https://github.com/LucasTuzina/privlix)** - Modern local media player and library manager with streaming Platform feel
+- **[Busly](https://busly.de/)** - Bus charter Platrform and bus company SaaS
 
 Most work is private, but I contribute to public tooling when useful.
 
