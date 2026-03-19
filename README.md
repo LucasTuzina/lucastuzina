@@ -54,13 +54,6 @@ Most work is private, but I contribute to public tooling when useful.
 - `make:laranum` command with auto-translation generation
 - Production-tested trait-based architecture
 
-#### 🎬 [Privlix](https://github.com/LucasTuzina/privlix) - *Alpha Release*
-> Modern local media player with automatic library organization
-
-- Custom HTML5 video player with progress tracking
-- Automatic movie/series categorization and watch history
-- macOS-optimized with native integrations
-  
 ---
 
 ### 🧠 Focus Areas
