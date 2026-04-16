@@ -11,6 +11,22 @@ Most work is private, but I contribute to public tooling when useful.
 
 ---
 
+  #### 🧩 [Laranums](https://github.com/LucasTuzina/laranums)                                                                                                      
+  [![Packagist Downloads](https://img.shields.io/packagist/dt/lucastuzina/laranums.svg)](https://packagist.org/packages/lucastuzina/laranums)
+  [![Version](https://img.shields.io/packagist/v/lucastuzina/laranums.svg)](https://packagist.org/packages/lucastuzina/laranums)                                                                                                                                      
+                                                                                                                                                                   
+  > The comprehensive Laravel enum toolkit — one trait, everything handled.                                                                                        
+                                                                                                                                                                   
+  - **40+ trait methods** spanning lookup, navigation, filtering, comparison, ordering, validation & more                                                          
+  - **12 ready-to-use utility enums** — `Currency` (ISO 4217), `Country` (ISO 3166), `Language` (ISO 639), `HttpStatus`, `Unit`, `Day`, `Month`,
+  `CardinalDirection` …                                                                                                                                            
+  - **PHP-attribute case metadata** — `#[Label]`, `#[Color]`, `#[Icon]`, `#[Description]` for zero-boilerplate UI hints
+  - **Laravel-native integration** — validation rules, Faker provider, `whereEnum` Eloquent macro                                                                  
+  - **Composable architecture** — 11 single-purpose concerns, opt in à la carte or get everything via `use Laranum`                                                
+  - **`make:laranum` command** with optional multi-locale translation scaffolding                                                                                  
+
+---
+
 ### 🛠️ Tech Stack
 
 #### Languages
@@ -40,19 +56,6 @@ Most work is private, but I contribute to public tooling when useful.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
-
----
-
-### 🚀 Public Projects
-
-#### 🧩 [Laranums](https://github.com/LucasTuzina/laranums)  
-[![Packagist Downloads](https://img.shields.io/packagist/dt/lucastuzina/laranums.svg)](https://packagist.org/packages/lucastuzina/laranums)
-> Laravel enum toolkit with translation support
-
-- 20+ helper methods for Laravel enums
-- Utility enum classes ready to use
-- `make:laranum` command with auto-translation generation
-- Production-tested trait-based architecture
 
 ---
 
