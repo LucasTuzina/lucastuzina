@@ -2,7 +2,7 @@
 
 Backend-focused full stack developer passionate about high-performance systems and clean architectures.
 
-Currently building:
+### 🚀 Projects
 
 - **[IGNITE](https://ignitesports.io)** - Load management for athletes, combining data modeling with tooling for training and performance optimization
 - **[Busly](https://busly.de/)** - Bus charter platform and bus company SaaS
@@ -10,6 +10,8 @@ Currently building:
 Most work is private, but I contribute to public tooling when useful.
 
 ---
+
+### 📦 Tools
 
   #### 🧩 [Laranums](https://github.com/LucasTuzina/laranums)                                                                                                      
   [![Packagist Downloads](https://img.shields.io/packagist/dt/lucastuzina/laranums.svg)](https://packagist.org/packages/lucastuzina/laranums)
@@ -27,7 +29,7 @@ Most work is private, but I contribute to public tooling when useful.
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
 #### Languages
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
