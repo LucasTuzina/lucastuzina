@@ -4,7 +4,7 @@ Backend-focused full stack developer passionate about high-performance systems a
 
 ### 🚀 Projects
 
-- **[IGNITE](https://ignitesports.io)** - Vector based load and performance management paltform for athletes
+- **[IGNITE](https://ignitesports.io)** - Vector based load and performance management platform for athletes
 - **[Busly](https://busly.de/)** - Bus charter platform and bus company SaaS
 
 Most work is private, but I contribute to public tooling when useful.
