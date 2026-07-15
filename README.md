@@ -75,4 +75,4 @@ Most work is private, but I contribute to public tooling when useful.
 
 📨 `lucas.tuzina@icloud.com`
 
-🌐 [IGNITE imprint](https://ignitesports.io/legal)
+🌐 [Prismotion imprint](https://prismotion.io/legal)
