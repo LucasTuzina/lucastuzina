@@ -73,6 +73,6 @@ Most work is private, but I contribute to public tooling when useful.
 
 ### 📫 Contact
 
-📨 `lucas.tuzina@icloud.com`
+📨 `dev@tuzina.de`
 
 🌐 [Prismotion imprint](https://prismotion.io/legal)
