@@ -5,7 +5,7 @@ Backend-focused full stack developer passionate about high-performance systems a
 ### 🚀 Projects
 
 - **[Prismotion](https://prismotion.io)** – Vector-based load & performance management for athletes
-- **[Busly](https://busly.de/)** – Bus charter & mobility platform · Smart Pricing · Routing · Live Tracking · Payments · Ticketing · Navigation · AI Assistants
+- **[Busly](https://busly.de/)** – Bus charter & mobility platform · Smart Pricing · Routing · Live Tracking · Payments · Ticketing · Navigation · AI Assistant
 
 Most work is private, but I contribute to public tooling when useful.
 
